@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "QuickClash.Common", "QuickClash.Common\QuickClash.Common.shproj", "{AEFE0810-941E-4C09-87CF-86AD8B7D6D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickClash.2022", "QuickClash.2022\QuickClash.2022.csproj", "{4208CD83-C3E1-45E4-B64F-ED6DEA9FDAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickClash.2021", "QuickClash.2021\QuickClash.2021.csproj", "{E2975E3D-E82A-4363-86BC-B3E610C87666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickClash.2020", "QuickClash.2020\QuickClash.2020.csproj", "{A30B6CFC-3512-4832-BC3B-8538B2583950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickClash.2019", "QuickClash.2019\QuickClash.2019.csproj", "{EA5BB63D-F554-40D4-B95C-7592B20AD890}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		QuickClash.Common\QuickClash.Common.projitems*{4208cd83-c3e1-45e4-b64f-ed6dea9fdac9}*SharedItemsImports = 4
+		QuickClash.Common\QuickClash.Common.projitems*{a30b6cfc-3512-4832-bc3b-8538b2583950}*SharedItemsImports = 4
+		QuickClash.Common\QuickClash.Common.projitems*{aefe0810-941e-4c09-87cf-86ad8b7d6d87}*SharedItemsImports = 13
+		QuickClash.Common\QuickClash.Common.projitems*{e2975e3d-e82a-4363-86bc-b3e610c87666}*SharedItemsImports = 4
+		QuickClash.Common\QuickClash.Common.projitems*{ea5bb63d-f554-40d4-b95c-7592b20ad890}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4208CD83-C3E1-45E4-B64F-ED6DEA9FDAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4208CD83-C3E1-45E4-B64F-ED6DEA9FDAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4208CD83-C3E1-45E4-B64F-ED6DEA9FDAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4208CD83-C3E1-45E4-B64F-ED6DEA9FDAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2975E3D-E82A-4363-86BC-B3E610C87666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2975E3D-E82A-4363-86BC-B3E610C87666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2975E3D-E82A-4363-86BC-B3E610C87666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2975E3D-E82A-4363-86BC-B3E610C87666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30B6CFC-3512-4832-BC3B-8538B2583950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30B6CFC-3512-4832-BC3B-8538B2583950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30B6CFC-3512-4832-BC3B-8538B2583950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30B6CFC-3512-4832-BC3B-8538B2583950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5BB63D-F554-40D4-B95C-7592B20AD890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5BB63D-F554-40D4-B95C-7592B20AD890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5BB63D-F554-40D4-B95C-7592B20AD890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5BB63D-F554-40D4-B95C-7592B20AD890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8169207-FA99-40F4-850A-B85F48C91D1D}
+	EndGlobalSection
+EndGlobal
